@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="200" />
+    <h1 align="center"> ### Hi there 👋 </h1>
+    <h3 align="center"> I'm a computer engineering student at FIB (UPC), in Barcelona, Spain. To be more precise, I am specialized in software.
+  </h3>
+ <div/>
+  
 
 <!--
 **zMaTuX/zMaTuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
