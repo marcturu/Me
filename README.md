@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/lcs5BL0NIM4WMv61a9/giphy.gif" width="200" />
     <h1 align="center"> ### Hi there 👋 </h1>
-    <h3 align="center"> I'm a computer engineering student at FIB (UPC), in Barcelona, Spain. To be more precise, I am specialized in software.
+    <h3 align="center"> I'm a computer engineering student at FIB (UPC), in Barcelona, Spain. Specialized in software.
   </h3>
  <div/>
   
